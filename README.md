@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=250&section=header&text=DEV%20BRO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=A5A5A5" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=250&section=header&text=PIXELIX-BRO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=A5A5A5" width="100%" alt="header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=React+%2B+Next.js+Developer;Svelte+%2B+SvelteKit+Enthusiast;Node.js+%2B+Express+Backend;REST+API+%26+Redux+Architect;Animating+the+Web+with+GSAP+%26+AOS;Type-Safe+with+TypeScript" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 
 ## 👋 About
 
-I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications, working across the entire stack from motion-rich interfaces to solid backend systems.
+I'm **Pixelix-Bro** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications, working across the entire stack from motion-rich interfaces to solid backend systems.
 
 **🔧 What I build with:**
 - **Markup & Language:** HTML5, CSS3, JavaScript
