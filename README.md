@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=250&section=header&text=PIXELIX-BRO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=A5A5A5" width="100%" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=React+%2B+Next.js+Developer;Svelte+%2B+SvelteKit+Enthusiast;Node.js+%2B+Express+Backend;REST+API+%26+Redux+Architect;Animating+the+Web+with+GSAP+%26+AOS;Type-Safe+with+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=React+%2B+Next.js+Developer;Preact.js+Enthusiast;TailwindCSS+Styling;Redux+Toolkit+%2B+React+Router;Axios+%26+React+Hook+Form;Swiper+%2B+Sonner+UI" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-bro-portfolio.vercel.app/)
-[![Telegram](https://img.shields.io/badge/Telegram-DEV%20BRO-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DEV_BR0)
-[![Codewars](https://img.shields.io/badge/Codewars-DEV--BR0-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/DEV-BR0)
-![Profile Views](https://komarev.com/ghpvc/?username=DEV-BR0&style=for-the-badge&color=6366F1&label=VIEWS)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://pixelix-bro-portfolio.vercel.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-Pixeelix-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pixeelix)
+[![Codewars](https://img.shields.io/badge/Codewars-Pixelix--Bro-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Pixelix-Bro)
+![Profile Views](https://komarev.com/ghpvc/?username=Pixelix-Bro&style=for-the-badge&color=6366F1&label=VIEWS)
 
 </div>
 
@@ -35,7 +35,7 @@ I'm **Pixelix-Bro** — a Full-Stack Developer who turns ideas into fast, animat
 > npm run learn --forever
 ```
 
-Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t.me/DEV_BR0)**.
+Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t.me/Pixeelix)**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F0F0F&height=3&width=100%25" width="100%"/>
 
@@ -45,9 +45,9 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 Take a look at my work — live projects, case studies, and everything I've shipped so far.
 
-[![View Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-6366F1?style=for-the-badge&logoColor=white&labelColor=0F0F0F)](https://dev-bro-portfolio.vercel.app/)
+[![View Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-6366F1?style=for-the-badge&logoColor=white&labelColor=0F0F0F)](https://pixelix-bro-portfolio.vercel.app/)
 
-<sub>🔗 <a href="https://dev-bro-portfolio.vercel.app/">dev-bro-portfolio.vercel.app</a></sub>
+<sub>🔗 <a href="https://pixelix-bro-portfolio.vercel.app/">pixelix-bro-portfolio.vercel.app</a></sub>
 
 </div>
 
@@ -98,12 +98,12 @@ Take a look at my work — live projects, case studies, and everything I've ship
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=DEV-BR0&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEV-BR0&layout=compact&theme=radical&hide_border=true" width="35%" alt="top languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Pixelix-Bro&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pixelix-Bro&layout=compact&theme=radical&hide_border=true" width="35%" alt="top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=DEV-BR0&theme=radical&hide_border=true" alt="GitHub streak stats"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Pixelix-Bro&theme=radical&hide_border=true" alt="GitHub streak stats"/>
 
 </div>
 
@@ -126,7 +126,7 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-BR0&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="animated contribution activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pixelix-Bro&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="animated contribution activity graph" width="100%"/>
 
 </div>
 
