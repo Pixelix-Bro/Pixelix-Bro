@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://pixelix-bro-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://pixelix.uz)
 [![Telegram](https://img.shields.io/badge/Telegram-Pixeelix-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pixeelix)
 [![Codewars](https://img.shields.io/badge/Codewars-Pixelix--Bro-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Pixelix-Bro)
 ![Profile Views](https://komarev.com/ghpvc/?username=Pixelix-Bro&style=for-the-badge&color=6366F1&label=VIEWS)
