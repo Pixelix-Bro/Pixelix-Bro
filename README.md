@@ -146,14 +146,6 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F0F0F&height=3&width=100%25" width="100%"/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="./metrics.isocalendar.svg" alt="3D contribution calendar" width="100%"/>
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
