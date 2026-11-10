@@ -72,16 +72,21 @@ FEATURED PROJECTS — uncomment and replace REPO_NAME with your real repository 
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,preact,tailwind&theme=dark" alt="core tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" alt="core tech stack icons"/>
+
+<br/><br/>
 
 **Libraries**
 
+![Preact](https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
 ![Sonner](https://img.shields.io/badge/Sonner-000000?style=for-the-badge&logo=react&logoColor=white)
+
+<br/><br/>
 
 **Tools**
 
@@ -97,7 +102,7 @@ FEATURED PROJECTS — uncomment and replace REPO_NAME with your real repository 
 
 ![Status](https://img.shields.io/badge/status-always%20learning-F59E0B?style=for-the-badge&logo=googlescholar&logoColor=white)
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,express,python,flask&theme=dark" alt="currently learning icons"/>
 
@@ -117,7 +122,7 @@ FEATURED PROJECTS — uncomment and replace REPO_NAME with your real repository 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Pixelix-Bro&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Pixelix-Bro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pixelix-Bro&layout=compact&theme=radical&hide_border=true" width="35%" alt="top languages"/>
 
 <br/><br/>
@@ -145,7 +150,7 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pixelix-Bro&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="animated contribution activity graph" width="100%"/>
+<img src="./metrics.isocalendar.svg" alt="3D contribution calendar" width="100%"/>
 
 </div>
 
